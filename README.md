@@ -1,5 +1,5 @@
 # Algoritmos y Estructura de Datos 💻
-![](https://img.shields.io/badge/Realizado%20en-%20C/C++-1f425f.svg)
+![](https://img.shields.io/badge/Realizado%20en-%20C++-F75AB6.svg)
 
 <p>
 En este repositorio se recopilan todos los ejercicios, trabajo práctico, parciales y finales resueltos por mi.  
